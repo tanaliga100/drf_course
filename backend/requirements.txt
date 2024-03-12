@@ -4,9 +4,9 @@ django-extensions==3.2.1
 django-filter==22.1
 djangorestframework==3.14.0
 djangorestframework-jsonapi==6.0.0
-inflection==0.5.1
+inflection==0.5.16
 python-dotenv==0.21.0
 pytz==2022.6
 sqlparse==0.4.3
-tzdata==2022.6
+tzdata==2022.
 
